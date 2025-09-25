@@ -30,15 +30,16 @@ h2 {
 
 p {
   color: rgb(56, 55, 55);
+  margin-right: 250px;
+}
+
+ul {
+  margin-right: 250px;
 }
 
 .footer {
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  color: white;
+  margin-top: 20px;
   text-align: center;
-  padding: 10px 0;
 }
 
 .kep1 {
@@ -55,4 +56,14 @@ p {
   border-radius: 10px;
   margin-bottom: 20px;
   float: right;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: darkgoldenrod;
+  text-decoration: underline;
 }
