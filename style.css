@@ -31,6 +31,7 @@ h2 {
 p {
   color: rgb(56, 55, 55);
   margin-right: 250px;
+  text-indent: 20px;
 }
 
 ul {
@@ -66,4 +67,19 @@ a {
 a:hover {
   color: darkgoldenrod;
   text-decoration: underline;
+}
+
+#szolgaltatas {
+  margin-right: 250px;
+}
+
+.card {
+  background-color: lightblue;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  text-justify: auto;
 }
